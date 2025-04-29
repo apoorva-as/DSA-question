@@ -72,3 +72,26 @@ using namespace std;
 // }
 // cout<<revnum;
 // }
+
+
+
+//pelindrop number----------------
+
+// int main(){
+// int n;
+// cin>>n;
+// int revnum=0;
+// int dup=n;//there we make new int because if we take n it will become zero after completing the loop
+// while (n>0)
+// {
+//     int id=n%10;
+//     n=n/10;
+//     revnum = (revnum *10)+id;
+// }
+// if (dup==revnum)
+// {
+//     cout<<"true"<<endl;
+// }
+// else cout<<"false";
+
+// }
